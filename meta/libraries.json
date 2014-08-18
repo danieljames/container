@@ -2,14 +2,14 @@
     "key": "container",
     "name": "Container",
     "authors": [
-        "Ion Gazta\u00f1aga"
+        "Ion Gaztañaga"
+    ],
+    "maintainers": [
+        "Ion Gaztanaga <igaztanaga -at- gmail.com>"
     ],
     "description": "Standard library containers and extensions.",
     "category": [
         "Containers",
         "Data"
-    ],
-    "maintainers": [
-        "Ion Gaztanaga <igaztanaga -at- gmail.com>"
     ]
 }
